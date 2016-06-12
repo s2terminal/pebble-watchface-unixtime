@@ -1,0 +1,27 @@
+{
+    "author": "s2terminal",
+    "dependencies": {},
+    "keywords": [],
+    "name": "unixtime",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "unixtime",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "1d3712e4-aede-45c5-b87c-3c5d7dcdd2e4",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
